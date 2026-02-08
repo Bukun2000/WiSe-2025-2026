@@ -1,4 +1,4 @@
-**CVE-ID**: EDU-WEBLAB-2026-T03-001  
+**CVE-ID**: EDU-JUICESHOP-2026-T03-001  
 **Title**: Path Traversal via Poison Null Byte in File Download Function  
 **Affected Lab**: Juice Shop  
 **Component**: /ftp/ file access endpoint  
