@@ -1,4 +1,4 @@
-**CVE-ID**: EDU-WEBLAB-2026-T03-002  
+**CVE-ID**: EDU-GRAVEMIND-2026-T03-002  
 **Title**: Anonymous FTP Access  
 **Affected Lab**: gravemind  
 **Component**: vsftpd 3.0.3 (FTP service on port 21)  
