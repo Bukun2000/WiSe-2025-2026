@@ -1,7 +1,7 @@
 **CVE-ID**: EDU-JUICESHOP-2026-T03-012
 
 **Title**: Confidential Document Exposure via Unrestricted /ftp/ Directory Access
-
+ 
 **Affected Lab**: Juice Shop
 
 **Component**: File Storage (/ftp/ endpoint)
